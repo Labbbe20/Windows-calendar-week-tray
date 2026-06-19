@@ -1,4 +1,4 @@
-# windows-calendar-week-tray
+# Windows-calendar-week-tray
 
 English
 
